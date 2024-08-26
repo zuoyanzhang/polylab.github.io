@@ -1,6 +1,6 @@
 ---
 # Display name
-title: ML Compiler
+title: ML Compiler System Team
 
 # Full name (for SEO)
 first_name: Alice
