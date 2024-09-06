@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Yuanshi Han (张作言)
+url: 'https://zuoyanzhang.github.io'
 
 # Full name (for SEO)
 first_name: Yuanshi
