@@ -1,7 +1,7 @@
 ---
 # Display name
-title: [Yuanshi Han (袁诗涵)](https://zuoyanzhang.github.io/)
-
+title: Yuanshi Han (袁诗涵)
+url: 'https://zuoyanzhang.github.io/'
 # Full name (for SEO)
 first_name: Alice
 last_name: Wu
@@ -65,7 +65,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: zyanz@hnu.edu.cn
+email: 'zyanz@hnu.edu.cn'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
