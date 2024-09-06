@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Zuoyan Zhang (张作言)
+title: Yuanshi Han (张作言)
 
 # Full name (for SEO)
-first_name: Zuoyan
-last_name: Zhang
+first_name: Yuanshi
+last_name: Han
 
 # Username (this should match the folder name)
 authors:
@@ -38,9 +38,6 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
