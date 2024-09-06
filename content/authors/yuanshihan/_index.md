@@ -1,10 +1,11 @@
 ---
 # Display name
-title: [Yuanshi Han (袁诗涵)](https://zuoyanzhang.github.io/)
+title: Yuanshi Han (袁诗涵)
 
 # Full name (for SEO)
 first_name: Alice
 last_name: Wu
+url: 'https://zuoyanzhang.github.io/'
 
 # Username (this should match the folder name)
 authors:
