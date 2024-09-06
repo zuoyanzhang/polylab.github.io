@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Yuanshi Han (袁诗涵)
-url: https://zuoyanzhang.github.io/
+
 # Full name (for SEO)
 first_name: Alice
 last_name: Wu
@@ -40,6 +40,11 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
+
+publication:
+  - afasdf
+  - asdfsdf
+  - asdf 
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
