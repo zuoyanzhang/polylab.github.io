@@ -41,6 +41,9 @@ education:
       institution: Massachusetts Institute of Technology
       year: 2008
 
+publication:
+  hello
+
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
