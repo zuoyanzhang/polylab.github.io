@@ -24,6 +24,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
+publication:
+  helo
+
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -40,9 +43,6 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-
-publication:
-  hello
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
